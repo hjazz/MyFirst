@@ -14,6 +14,7 @@
 		3B69699A2A5A3EC800903DC1 /* MyFirstTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6969992A5A3EC800903DC1 /* MyFirstTests.swift */; };
 		3B6969A42A5A3EC800903DC1 /* MyFirstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6969A32A5A3EC800903DC1 /* MyFirstUITests.swift */; };
 		3B6969A62A5A3EC800903DC1 /* MyFirstUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6969A52A5A3EC800903DC1 /* MyFirstUITestsLaunchTests.swift */; };
+		3B6969B32A5A3EDE00903DC1 /* ByeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6969B22A5A3EDE00903DC1 /* ByeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3B69699F2A5A3EC800903DC1 /* MyFirstUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B6969A32A5A3EC800903DC1 /* MyFirstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstUITests.swift; sourceTree = "<group>"; };
 		3B6969A52A5A3EC800903DC1 /* MyFirstUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3B6969B22A5A3EDE00903DC1 /* ByeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ByeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3B6969882A5A3EC700903DC1 /* MyFirstApp.swift */,
 				3B69698A2A5A3EC700903DC1 /* ContentView.swift */,
+				3B6969B22A5A3EDE00903DC1 /* ByeView.swift */,
 				3B69698C2A5A3EC800903DC1 /* Assets.xcassets */,
 				3B69698E2A5A3EC800903DC1 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B6969B32A5A3EDE00903DC1 /* ByeView.swift in Sources */,
 				3B69698B2A5A3EC700903DC1 /* ContentView.swift in Sources */,
 				3B6969892A5A3EC700903DC1 /* MyFirstApp.swift in Sources */,
 			);
