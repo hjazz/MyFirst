@@ -9,7 +9,10 @@ import SwiftUI
 
 struct ByeView: View {
     var body: some View {
-        Text("Bye bye, World!")
+        VStack {
+            Text("Bye bye, World!")
+            Text("Some change here")
+        }
     }
 }
 
